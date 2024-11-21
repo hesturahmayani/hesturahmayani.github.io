@@ -1,5 +1,5 @@
 ## Test
 
-The first day I tried to learn about writing on GitHub
+I am testing how to write on GitHub
 
 ---
