@@ -1,5 +1,5 @@
 ## Test
 
-I am testing how to write on GitHub
+I am using GitHub to write this blog. 
 
 ---
