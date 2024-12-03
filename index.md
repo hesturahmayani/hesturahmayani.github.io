@@ -9,8 +9,8 @@ Beyond her teaching career, She maintain a hobby as a content creator, specializ
 While I am new to professional technical communication, This static site generator from GitHub is part of my portfolio. I am also participating in open source documentation in GitHub.
 
 ## Reference links
-**Blog** https://www.momwritesonline.com
+**Blog**: [momwritesonline.com] (https://www.momwritesonline.com)
 
-**LinkedIn** https://linkedin.com/in/hesturahmayani
+**LinkedIn**: [linkedin.com/in/hestrurahmayani] (https://linkedin.com/in/hesturahmayani)
 
-**GitHub** https://github.com/hesturahmayani
+**GitHub**: [github.com/hesturahmayani] (https://github.com/hesturahmayani)
