@@ -3,8 +3,6 @@ Hestu is a mom and teacher who has a passion for writing and a keen interest in 
 
 Her passion for teaching has led to her interest in learning and development. Her role as a teacher has significantly enhanced her leadership and communication skills while improving her ability to organize workflows and collaborate effectively within a team.
 
-Beyond her teaching career, she maintains a hobby as a content creator, specializing in mindfulness and meditation. This pursuit has deepened her passion for writing and content creation and expanded her knowledge of technical communication and instructional design.
-
 ## Portfolio
 My pedagogical expertise has grown along with my technical proficiency and strong analytical skills. I often help my colleagues with scheduling in Excel, technical problems in email or Windows, and printer networking. 
 
