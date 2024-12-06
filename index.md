@@ -1,3 +1,4 @@
+# About Hestu 
 Hestu is a mom and teacher who has a passion for writing and a keen interest in technology  with a master's degree in Child Studies and a diploma in Computer Science.
 
 Her passion for teaching has led to her interest in learning and development. Her role as a teacher has significantly enhanced her leadership and communication skills while improving her ability to organize workflows and collaborate effectively within a team.
