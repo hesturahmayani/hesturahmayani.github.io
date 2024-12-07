@@ -1,4 +1,2 @@
-# hesturahmayani.github.io
-This is a profile website that uses GitHub pages
-
-Used for introducing Hestu 
+# hestu.rahmayani.com
+This is an introduction site that uses GitHub. 
