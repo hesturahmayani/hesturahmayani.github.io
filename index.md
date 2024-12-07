@@ -10,7 +10,7 @@ During my spare time, I am actively writing a mindfulness and meditation newslet
 
 With my interest in technology, I am improving my skills in technical writing by maintaining two blog sites via GitHub. One of the blogs primarily focuses on content creation and documentation practices for software development.
 
-Originally from Indonesia, I am a native speaker of both Javanese and Indonesian. My interest in languages has motivated me to develop strong proficiency in English. Since 2016, I have been expanding my linguistic capabilities with Swedish as my fourth language while establishing my life in Sweden. language while establishing my life in Sweden.
+Originally from Indonesia, I am a native speaker of both Javanese and Indonesian. My interest in languages has motivated me to develop strong proficiency in English. Since 2016, I have been expanding my linguistic capabilities with Swedish as my fourth language while establishing my life in Sweden.
 
 ## Reference links
 **Blog**: [momwritesonline.github.io](https://momwritesonline.github.io)
