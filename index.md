@@ -15,7 +15,7 @@ Originally from Indonesia, I am a native speaker of both Javanese and Indonesian
 ## Reference links
 **Author Page**: [Amazon](https://www.amazon.com/author/hestuskrivero) 
 
-**Blog**: [momwritesonline](https://momwritesonline.github.io)
+**Blog**: [Mom Writes Online](https://momwritesonline.github.io)
 
 **Newsletter**: [Mindful Exploration](https://mindfulexploration.substack.com) 
 
