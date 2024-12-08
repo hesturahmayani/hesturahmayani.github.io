@@ -13,6 +13,8 @@ With my interest in technology, I am improving my skills in technical writing by
 Originally from Indonesia, I am a native speaker of both Javanese and Indonesian. My interest in languages has motivated me to develop strong proficiency in English. Since 2016, I have been expanding my linguistic capabilities with Swedish as my fourth language while establishing my life in Sweden.
 
 ## Reference links
+**Author Page**: [Amazon](https://www.amazon.com/author/hestuskrivero) 
+
 **Blog**: [momwritesonline.github.io](https://momwritesonline.github.io)
 
 **LinkedIn**: [linkedin.com/in/hesturahmayani](https://linkedin.com/in/hesturahmayani)
