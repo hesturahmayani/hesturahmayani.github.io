@@ -6,7 +6,7 @@ Her passion for teaching has led to her interest in learning and development. He
 ## Portfolio
 My pedagogical expertise has grown along with my technical proficiency and strong analytical skills. I often help my colleagues with scheduling in Excel, technical problems in email or Windows, and printer networking. 
 
-During my spare time, I am actively writing a mindfulness and meditation newsletter since August 2024, now reaching 48 subscribers. For content development, I utilize editing tools including GarageBand, LumaFusion, and Canva, selected for their efficient workflows, mobility, and functionality.
+During my spare time, I am actively writing a mindfulness and meditation newsletter since August 2024, now reaching 48 subscribers in December 2024. For content development, I utilize editing tools including GarageBand, LumaFusion, and Canva, selected for their efficient workflows, mobility, and functionality.
 
 With my interest in technology, I am improving my skills in technical writing by maintaining two blog sites via GitHub. One of the blogs primarily focuses on content creation and documentation practices for software development.
 
