@@ -17,7 +17,7 @@ Originally from Indonesia, I am a native speaker of both Javanese and Indonesian
 
 **Blog**: [Mom Writes Online](https://momwritesonline.github.io)
 
-**Newsletter**: [Mindful Exploration](https://mindfulexploration.substack.com) 
+**Newsletter**: [Mindfulness & Meditation](https://mindfulexploration.substack.com) 
 
 **LinkedIn**: [linkedin.com/in/hesturahmayani](https://linkedin.com/in/hesturahmayani)
 
