@@ -8,7 +8,7 @@ My pedagogical expertise has grown along with my technical proficiency and stron
 
 During my spare time, I am actively writing a mindfulness and meditation newsletter since August 2024, now reaching 48 subscribers in December 2024. For content development, I utilize editing tools including GarageBand, LumaFusion, and Canva, selected for their efficient workflows, mobility, and functionality.
 
-With my interest in technology, I am improving my skills in technical writing by maintaining two blog sites via GitHub. One of the blogs primarily focuses on content creation and documentation practices for software development.
+With my interest in technology, I am improving my technical skills by maintaining blog sites via GitHub. One of the blogs primarily focuses on documentation practices for software development (still in working). 
 
 Originally from Indonesia, I am a native speaker of both Javanese and Indonesian. My interest in languages has motivated me to develop strong proficiency in English. Since 2016, I have been expanding my linguistic capabilities with Swedish as my fourth language while establishing my life in Sweden.
 
