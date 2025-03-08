@@ -6,7 +6,7 @@ Her passion for teaching, education and language has led to her interest in lear
 ## Portfolio
 My pedagogical expertise has grown along with my technical proficiency and strong analytical skills. I often help my colleagues with email and file management plus scheduling and calendar management. 
 
-During my spare time, I am actively creating content about mindfulness and meditation newsletter since August 2024, now reaching 48 subscribers in December 2024. For content development, I utilize editing tools including GarageBand, Audacity, and Canva, selected for their efficient workflows, mobility, and functionality. 
+During my spare time, I am actively creating content about mindfulness since August 2024, now reaching 48 subscribers in December 2024. For content development, I utilize editing tools including GarageBand, Audacity, and Canva, selected for their efficient workflows, mobility, and functionality. 
 
 Originally from Indonesia, I am a native speaker of both Javanese and Indonesian. My interest in languages has motivated me to develop strong proficiency in English. Since 2016, I have been expanding my linguistic capabilities with Swedish as my fourth language while establishing my life in Sweden.
 
