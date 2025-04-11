@@ -10,9 +10,9 @@ Originally from Indonesia, I am a native speaker of both Javanese and Indonesian
 ## Portfolio
 **Author Page**: [Amazon](https://www.amazon.com/author/hestuskrivero) 
 
-**Substack**: [Mindfulness & Meditation](https://mindfulexploration.substack.com) 
+**Meditation**: [Substack](https://mindfulexploration.substack.com) 
 
-**Youtube**: [Mindfulness](https://www.youtube.com/@MindfulExplorationClub)
+**Mindfulness**: [Youtube](https://www.youtube.com/@MindfulExplorationClub)
 
 ## Reference links
 
