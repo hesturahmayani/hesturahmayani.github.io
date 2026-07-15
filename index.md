@@ -7,11 +7,11 @@ My language background is that I am a native Indonesian and Javanese speaker, co
 
 What I Can Do For You:
 
-(-) Curriculum & Lesson Planning: Creating inclusive, age-appropriate learning paths that weave in social-emotional learning (SEL) and mindfulness.
+- Curriculum & Lesson Planning: Creating inclusive, age-appropriate learning paths that weave in social-emotional learning (SEL) and mindfulness.
 
-(-) Educational Content & Script Writing: Crafting engaging scripts for children's podcasts, audio stories, meditation apps, or YouTube channels.
+- Educational Content & Script Writing: Crafting engaging scripts for children's podcasts, audio stories, meditation apps, or YouTube channels.
 
-(-) Wellness & Parenting Content: Writing research-backed articles, guides, and digital resources on child psychology, mindfulness, and early development.
+- Wellness & Parenting Content: Writing research-backed articles, guides, and digital resources on child psychology, mindfulness, and early development.
 
 I combine deep academic insight with top-tier project management. That means clear communication, zero missed deadlines, and polished, ready-to-launch deliverables from day one.
 
