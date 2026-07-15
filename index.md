@@ -1,18 +1,25 @@
 # About Hestu 
 Hi! My name is Hestu. I am a mom and teacher who has a passion for writing, multilingualism, and a keen interest in technology, with a master's degree in Child Studies and a diploma in Computer Science.
 
-My teaching background has shaped my approach to educational design. I weave creativity, problem-solving, and lifelong learning into all my work. My classroom experience showed me how learners thrive when learning is engaging, practical, and connected to real-world challenges. This insight drives me to create learning experiences that go beyond information delivery — helping learners practice, reflect, and build confidence in meaningful ways.
+As an educator with a Master’s in Child Studies and the creator of a mindfulness podcast, I blend the science of child development with the art of mindful engagement. I help companies, schools, publishers, and wellness brands create content that is as emotionally grounding as it is educationally brilliant.
 
-In addition to teaching, I create mindfulness and motivational content. I use editing tools like GarageBand and Canva, chosen for their efficient workflows, mobility, and functionality.
+My language background is that I am a native Indonesian and Javanese speaker, completely fluent in English, and I speak advanced Swedish (having lived/studied/worked in Sweden for more than 10 years). While I am not a native Swedish speaker, I am highly comfortable with the language and confident in my ability to handle fluid switching between Swedish and English naturally.
 
-Originally from Indonesia, I am a native speaker of both Javanese and Indonesian. My interest in languages has motivated me to develop strong proficiency in English. Since 2016, I have been expanding my linguistic capabilities with Swedish as my fourth language while establishing my life in Sweden.
+What I Can Do For You:
+(-) Curriculum & Lesson Planning: Creating inclusive, age-appropriate learning paths that weave in social-emotional learning (SEL) and mindfulness.
+(-) Educational Content & Script Writing: Crafting engaging scripts for children's podcasts, audio stories, meditation apps, or YouTube channels.
+(-) Wellness & Parenting Content: Writing research-backed articles, guides, and digital resources on child psychology, mindfulness, and early development.
+
+I combine deep academic insight with top-tier project management. That means clear communication, zero missed deadlines, and polished, ready-to-launch deliverables from day one.
+
+Let’s create something impactful that makes learning a calm, joyful experience.
 
 ## Portfolio
 **Author Page**: [Amazon](https://www.amazon.com/author/hestuskrivero) 
 
-**Meditation**: [Substack](https://mindfulexploration.substack.com) 
+**Mindfulness and Meditation**: [Substack](https://slowdownfromhome.substack.com) 
 
-**Mindfulness**: [Youtube](https://www.youtube.com/@MindfulExplorationClub)
+**Mindfulness and meditation**: [Youtube](https://www.youtube.com/@MindfulExplorationClub)
 
 ## Reference links
 
